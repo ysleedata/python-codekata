@@ -3,7 +3,12 @@
 # 문제 링크: https://school.programmers.co.kr/learn/courses/30/lessons/120803
 # 알고리즘: 기초
 # 작성자: 이윤서
-# 작성일: 2026. 01. 22. 11:13:06
+# 작성일: 2026. 01. 22. 11:14:28
 
 def solution (num1,num2):
     return num1 - num2
+
+num1 = 2
+num2 = 3
+
+print(solution(2,3))
